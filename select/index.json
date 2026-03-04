@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "istillfeelthesame",
+  "base_artist": "ファイヴ・セカンズ・オブ・サマー",
+  "createdAt": "2026-03-04T07:52:49.921546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "istillfeelthesame",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/01_istillfeelthesame_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "istillfeelthesame",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": false,
+      "path": "select/pl_01_istillfeelthesame_5_Seconds_Of_Summer.txt"
+    }
+  ]
+}
