@@ -1,0 +1,49 @@
+# ファイヴ・セカンズ・オブ・サマー – istillfeelthesame
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.15] I remember things
+[00:13.75] Only you would know
+[00:16.29] Eyes running with mascara
+[00:18.78] You ask me to zip your dress and
+[00:21.36] Go and get the car
+[00:23.88] How much can we take?
+[00:26.37] Leavin' your apartment
+[00:29.13] You lean in to kiss my neck and
+[00:44.63] 
+[00:35.21] I still feel the same
+[00:37.65] Your heart's beating different
+[00:40.24] Show me nothing's changed
+[00:42.78] Kiss me like you mean it
+[00:45.16] I felt you slip away
+[00:47.90] Talkin' in your sleep and
+[00:50.33] I mean it when I say
+[00:52.88] I still feel the same
+[01:03.38] 
+[00:54.23] (Doo-doo-doo-doo)
+[00:55.38] I still feel the same
+[01:04.35] (Doo-doo-doo-doo)
+[01:12.85] 
+[01:07.33] See it in your face, see it in your eye
+[01:09.88] Takin' down your hair while I'm tryin' to drive
+[01:12.37] Tryin' not to stare or we're gonna die
+[01:14.35] You lean in to kiss my neck, I
+[01:16.87] Got no sleep, my eyes are bleedin'
+[01:19.47] Everything is losin' meaning
+[01:21.95] Tell me I'm your human bein', my love
+[01:40.45] 
+[01:25.76] I still feel the same
+[01:28.12] Your heart's beating different
+[01:30.79] Show me nothing's changed
+[01:33.23] Kiss me like you mean it
+[01:35.76] I felt you slip away
+[01:38.25] Talkin' in your sleep and
+[01:40.59] I mean it when I say
+[01:43.33] I still feel the same
+[01:53.83] 
+[01:44.92] (Doo-doo-doo-doo)
+[01:45.95] I still feel the same
+[01:54.90] (Doo-doo-doo-doo)
+[01:55.99] I still feel the same
+```
